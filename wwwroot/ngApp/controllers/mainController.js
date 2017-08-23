@@ -1,5 +1,5 @@
 class MainController {
     constructor() {
-        this.message = "hello from main";
+        this.message = "Welcome to my Project03 javascript!";
     }
 }
